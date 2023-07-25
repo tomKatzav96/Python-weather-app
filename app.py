@@ -21,9 +21,6 @@ requests - allows sending HTTP requests with python to external API
 Flask, request, render_template - functions on flask
 re - check if the string contains the conditions I defined
 -------------------------------------------------------------------
-Code review:
-Daniel Kohav, 21.12.22
--------------------------------------------------------------------
 Written by:
 Tom Katzav
 '''
